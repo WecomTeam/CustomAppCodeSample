@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www",
-    "serve": "cd ./vue && yarn serve",
-    "build": "cd ./vue && npx yarn install && npx yarn build"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "@cloudbase/node-sdk": "^2.9.0",

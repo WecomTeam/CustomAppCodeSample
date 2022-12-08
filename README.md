@@ -79,25 +79,24 @@ git clone https://github.com/WecomTeam/CustomAppCodeSample.git
 
 在已下载的示例代码项目根目录下，执行以下代码完成依赖安装：
 ```bash
+# npm
 npm install 
+# yarn
+yarn 
 ```
 
-### 四、构建前端工程
-
-在已下载的示例代码项目根目录下，执行以下代码完成前端项目构建：
-```bash
-npm run build
-```
-
-### 五、启动服务
+### 四、启动服务
 
 执行以下命令，启动后端服务
 
 ```bash
+# npm
 npm run start
+# yarn
+yarn start
 ```
 
-### 六、使用服务
+### 五、使用服务
 
 #### 回调路由
 根据在 `config/suite_config.js` 中 `CallBackPath` 的设置，当前代开发应用模板的回调URL为: 
