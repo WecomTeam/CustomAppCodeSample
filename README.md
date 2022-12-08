@@ -81,8 +81,6 @@ git clone https://github.com/WecomTeam/CustomAppCodeSample.git
 ```bash
 # npm
 npm install 
-# yarn
-yarn 
 ```
 
 ### 四、启动服务
@@ -92,8 +90,6 @@ yarn
 ```bash
 # npm
 npm run start
-# yarn
-yarn start
 ```
 
 ### 五、使用服务
